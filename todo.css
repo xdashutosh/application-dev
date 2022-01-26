@@ -1,0 +1,81 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    margin-bottom: -10px;
+    text-shadow: 2px 2px 4px black;
+}
+h3{
+    text-shadow: 1px 1px 2px gray;
+
+}
+
+.todoarea{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    height: 100%;
+}
+.fillhere{
+    width:400px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 7px;
+    border: 2px solid red;
+
+}
+.add{
+    width:70px;
+    height: 34px;
+    background-color: red;
+    font-size: 20px;
+    font-weight: 800;
+    color: white;
+border-radius: 6px;
+}
+
+.add:hover{
+background-color: black;
+color:white;
+}
+
+.slot{
+border-radius: 10px;
+font-size: 20px;
+background-color: black;
+color: white;
+height: 40px;
+margin: 8px;
+width:410px;
+padding: 15px;
+box-sizing: border-box;
+display:flex;
+align-items: center;
+justify-content:start;
+
+}
+.write{
+    margin-bottom: 40px;
+    margin-left: 64px;
+}
+.delete{
+position: absolute;
+left: 860px;
+}
+.warn{
+    background-color:black;
+    width:50%;
+    display:flex;
+    justify-content: center;
+    color:white;
+    height: 30px;
+    border-radius:10px;
+    align-items: center;
+}
+.dis{
+    display:none;
+}
