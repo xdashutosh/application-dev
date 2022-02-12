@@ -24,3 +24,7 @@
 > drag and drop
 
 > password generator
+
+>speed typing game
+
+>google map clone

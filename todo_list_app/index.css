@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+*:focus{
+    outline:none;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color:rgba(0, 0, 0, 0.562);
+    
+}
+.container{
+    border: 1px solid black;
+    height: 550px;
+    width: 40%;
+    margin-top:  40px;
+    border-radius: 10px;
+    background-color: white;
+}
+.head_cont{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 40%;
+    background: url("https://images.pexels.com/photos/2114014/pexels-photo-2114014.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+}
+.dates{
+    height: 30%;
+    width: 60%;
+    align-self: end;
+    box-sizing: border-box;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-size:1.5rem;
+    font-weight: bolder;
+    color: wheat;
+    text-shadow: 1px 1px 3px black,1px 1px 3px black;
+}
+#clear{
+    color: white;
+    font-size:1.5rem;
+    position:relative;
+    left:30%;
+    top: 5%;
+    
+}
+#clear:hover{
+    text-shadow: 1px 1px 3px black,1px 1px 3px black;
+}
+.textbox{
+    height: 8%;
+    border-top: 1px solid black;
+    position: relative;
+    top: 51%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+}
+#add{
+    color: rgba(0, 0, 255, 0.664);
+    font-size:1.5rem;
+    align-self: center;
+}
+#add:hover{
+    color: blue;
+}
+.todo{
+    width:90%;
+    font-size: 1.5rem;
+    border: none;
+    margin-left: 1%;
+}
+.work{
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 2%;
+    height: 5%;
+    font-size:1.5rem;
+}
