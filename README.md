@@ -25,6 +25,10 @@
 
 > password generator
 
+<<<<<<< HEAD
 >speed typing game
 
 >google map clone
+=======
+> google keep clone
+>>>>>>> 5a083b39bc3ecb0157ad700167ac1b8794d48371
