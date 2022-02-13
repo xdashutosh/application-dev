@@ -29,8 +29,6 @@ op.forEach((each_op)=>{
             
         } 
         
-        
-        
     })
 });
 
