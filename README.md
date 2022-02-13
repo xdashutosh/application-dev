@@ -5,8 +5,7 @@
 
 > booklist application
 
-> calculator
-[site](https://xdashutosh.github.io/application-dev/calculator/index.html)
+> [calculator](https://xdashutosh.github.io/application-dev/calculator/index.html)
 
 > chating application
 
