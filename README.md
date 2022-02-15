@@ -1,9 +1,9 @@
 # application-dev
-> todo list application
+> bookist application
 
 > countdown timer
 
-> [booklist application](https://xdashutosh.github.io/application-dev/todo_list_app/index.html)
+> [todo list application](https://xdashutosh.github.io/application-dev/todo_list_app/index.html)
 
 > [calculator](https://xdashutosh.github.io/application-dev/calculator/index.html)
 
@@ -25,7 +25,7 @@
 
 > password generator
 
->speed typing game
+>[speed typing game](https://xdashutosh.github.io/application-dev/speed%20typing%20game/index.html)
 
 >google map clone
 
