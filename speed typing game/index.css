@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+*:focus{
+    outline: none;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.822);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inst1{
+    align-self: center;
+}
+.conatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inst{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    padding: 7%;
+    background-color:darkcyan;
+    text-align: center;
+
+}
+.inst > h2{
+    color: white;
+    letter-spacing:1px;
+    margin-bottom: 2%;
+    font-weight: bolder;
+}
+.inst > p{
+    color: white;
+    text-transform:capitalize;
+    font-size:bold;
+}
+
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color:darkcyan;
+width: 100%;
+height: 10vh;
+color: white;
+letter-spacing:2px;
+font-weight: bolder;
+}
+#inst1{
+color: white;
+margin: 2%;
+}
+#inst1 > span{
+color:brown;
+}
+.words{
+    color: white;
+    font-size:2.8rem;
+    letter-spacing:2px;
+}
+.type{
+width: 30vw;
+height: 7vh;
+font-size: 2rem;
+padding-bottom: 4px;
+padding-left: 4px;
+border-radius: 5px;
+border: none;
+margin-top:2%;
+box-shadow: 2px 2px 4px black;
+}
+.type::placeholder{
+    font-size:1rem;
+
+}
+.result{
+margin-top: 1%;
+color: white;
+font-weight:bolder;
+
+}
+.output{
+    margin-top:5%;
+    padding: 0px;
+    color: white;
+    font-size:1.5rem;
+    width: 100%;
+display: flex;
+}
+#scorepos{
+    margin-left: 72%;
+}
+
+
