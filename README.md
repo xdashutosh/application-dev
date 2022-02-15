@@ -1,4 +1,5 @@
 # application-dev
+""" click on each link to get a view """
 > bookist application
 
 > countdown timer
